@@ -9,3 +9,4 @@ Scraping Headlines: The program uses requests and BeautifulSoup to scrape the he
 Sentiment Analysis: Utilizing the textblob library, the program analyzes the sentiment of each headline, categorizing them as negative, neutral, or positive.
 
 Output: The results are displayed in a data frame that includes the headlines along with their corresponding sentiment values.
+![image](https://github.com/user-attachments/assets/2264ef4f-7d5e-438a-b035-43f65bfb5f05)
